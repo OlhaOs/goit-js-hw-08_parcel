@@ -1,0 +1,1 @@
+{"mappings":"AAAAA,QAAQC,IACN","sources":["src/index.js"],"sourcesContent":["console.log(\r\n  'There is nothing here, cause I don#t know how to split my js and what I have to import here'\r\n);\r\n\r\n"],"names":["console","log"],"version":3,"file":"index.506f418a.js.map"}
